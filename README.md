@@ -30,7 +30,7 @@ Output goes to `dist/`.
 
 ## Live URL
 
-🔗 _TBD — deploying to Vercel/Cloudflare_
+🔗 https://obrera.github.io/zangano-nightshift-oneoff-epoch/
 
 ## Stack
 

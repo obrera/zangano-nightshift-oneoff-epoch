@@ -313,7 +313,7 @@ function App() {
 
       <footer>
         <p>
-          <a href="https://github.com/beeman/nightshift-oneoff-epoch" target="_blank" rel="noopener">
+          <a href="https://github.com/obrera/zangano-nightshift-oneoff-epoch" target="_blank" rel="noopener">
             GitHub
           </a>{" "}
           · Built during a Nightshift one-off session
